@@ -1,0 +1,12 @@
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/LibraryApplication.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/model/BookStatus.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/model/Book.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/controller/BookController.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/service/BookService.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/controller/HomeController.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/model/BorrowRecord.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/controller/BorrowController.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/repository/BorrowRecordRepository.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/model/BorrowStatus.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/service/BorrowService.java
+/home/omarfaruk/railways/three-tier-tool/library-manager/src/main/java/com/example/library/repository/BookRepository.java
