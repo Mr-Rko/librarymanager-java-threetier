@@ -90,7 +90,7 @@ Password	library_pass
 root Password	rootpassword
 
 
-### 📁 Project Structure
+📁 Project Structure
 library-manager/
 ├── src/main/java/com/example/library/
 │   ├── controller/          # MVC Controllers
@@ -109,19 +109,33 @@ library-manager/
 ├── deploy.sh                # Auto-deployment script
 └── pom.xml                  # Maven configuration
 
-### 🖼️ Screenshots
+## 🖼️ Screenshots
 
-!()
-![Screenshot 2]()
-![Dashboard]()
+### 🏠 Homepage
+![Homepage](https://raw.githubusercontent.com/Mr-Rko/librarymanager-java-threetier/main/screenshot/homepage.png)
+
+### 📚 All Books
+![All Books](https://raw.githubusercontent.com/Mr-Rko/librarymanager-java-threetier/main/screenshot/allbooks.png)
+
+### ➕ Add New Book
+![Add New Book](https://raw.githubusercontent.com/Mr-Rko/librarymanager-java-threetier/main/screenshot/newbookadd.png)
+
+### 📖 Borrow Book
+![Borrow Book](https://raw.githubusercontent.com/Mr-Rko/librarymanager-java-threetier/main/screenshot/borrowbook.png)
+
+### 🕒 Borrow History
+![Borrow History](https://raw.githubusercontent.com/Mr-Rko/librarymanager-java-threetier/main/screenshot/borrowhistory.png)
+
 
 🧑‍💻 Author
 
 Omar Faruk
 📧 of4689469@gmail.com
+
 🔗 GitHub: https://github.com/Mr-Rko
 
 ### ⭐ Contributions
 
 Pull requests are welcome!
+
 For major changes, please open an issue first to discuss what you would like to modify.
