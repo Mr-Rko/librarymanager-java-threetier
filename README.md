@@ -90,8 +90,8 @@ Password	library_pass
 root Password	rootpassword
 
 
-📁 Project Structure
-library-manager/
+### 📁 Project Structure
+librarymanager-java-threetier/
 ├── src/main/java/com/example/library/
 │   ├── controller/          # MVC Controllers
 │   ├── model/               # Entity classes (Book, BorrowRecord)
@@ -103,6 +103,13 @@ library-manager/
 │   ├── templates/           # Thymeleaf HTML templates
 │   ├── static/              # CSS, JS, images
 │   └── application.properties
+│
+├── screenshots/             # All screenshot images
+│   ├── homepage.png
+│   ├── allbooks.png
+│   ├── newbookadd.png
+│   ├── borrowbook.png
+│   └── borrowhistory.png
 │
 ├── docker-compose.yml       # Docker services
 ├── Dockerfile               # Spring Boot container
