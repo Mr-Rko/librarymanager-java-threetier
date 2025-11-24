@@ -90,32 +90,6 @@ Password	library_pass
 root Password	rootpassword
 
 
-### 📁 Project Structure
-librarymanager-java-threetier/
-├── src/main/java/com/example/library/
-│   ├── controller/          # MVC Controllers
-│   ├── model/               # Entity classes (Book, BorrowRecord)
-│   ├── repository/          # JPA repositories
-│   ├── service/             # Business logic
-│   └── LibraryApplication.java
-│
-├── src/main/resources/
-│   ├── templates/           # Thymeleaf HTML templates
-│   ├── static/              # CSS, JS, images
-│   └── application.properties
-│
-├── screenshots/             # All screenshot images
-│   ├── homepage.png
-│   ├── allbooks.png
-│   ├── newbookadd.png
-│   ├── borrowbook.png
-│   └── borrowhistory.png
-│
-├── docker-compose.yml       # Docker services
-├── Dockerfile               # Spring Boot container
-├── deploy.sh                # Auto-deployment script
-└── pom.xml                  # Maven configuration
-
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
